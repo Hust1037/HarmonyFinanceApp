@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/HomePage",
+    "pages/RecordPage",
+    "pages/AnalysisPage",
+    "pages/OcrPage"
+  ]
+}

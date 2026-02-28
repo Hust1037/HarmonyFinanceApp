@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "permission_read_image_reason",
+      "value": "需要访问相册以选择持仓截图进行识别"
+    },
+    {
+      "name": "permission_internet_reason",
+      "value": "用于获取实时行情数据"
+    }
+  ]
+}
